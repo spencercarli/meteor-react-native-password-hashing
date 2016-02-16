@@ -1,8 +1,8 @@
-Demonstration of authentication between React Native and Meteor.
+Demonstration of authentication with password hashing between React Native and Meteor.
 
 ## To Run
 
-- `git clone https://github.com/spencercarli/meteor-react-native-authentication.git`
+- `git clone https://github.com/spencercarli/meteor-react-native-password-hashing.git`
 - `cd quick-meteor-react-native/RNApp`
 - `npm install`
 - `open ios/RNApp.xcodeproj`
